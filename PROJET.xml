@@ -1,0 +1,21 @@
+<NotepadPlus>
+    <Project name="GSM_ACCES">
+        <File name="GSM_ACCES.ino" />
+		<File name="acces.h" />
+        <File name="acces.cpp" />
+        <File name="appli.h" />
+        <File name="appli.cpp" />
+        <File name="httpgsm.h" />
+        <File name="httpgsm.cpp" />
+        <File name="infos.versions.h" />
+		<File name="instant.h" />
+        <File name="instant.cpp" />
+		<File name="periode.h" />
+        <File name="periode.cpp" />
+        <File name="supergsm.h" />
+        <File name="supergsm.cpp" />
+		<File name="texte.h" />
+        <File name="texte.cpp" />
+        <File name="PROJET.xml" />
+    </Project>
+</NotepadPlus>
